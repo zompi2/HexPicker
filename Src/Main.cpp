@@ -1,19 +1,17 @@
 /**
- * Hex Picker example.
+ * Simple Hex Picker
  *
  * This is the main file of the Hex Picker example.
  *
- * This file is a part of a project from http://zompi.pl/simple-hex-picker/
  * (c) 2015 Damian Nowakowski
  */
 
 #include "Engine.h"
-#include <windows.h>
 
 /**
  * Start the application with no console 
  */
-int __stdcall wWinMain(HINSTANCE hInst, HINSTANCE prevInst, LPWSTR szCmdLine, int nCmdShow)
+int main()
 {
 	// Init application engine so it can run
 	ENGINE_INIT

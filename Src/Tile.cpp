@@ -1,10 +1,9 @@
 /**
- * Hex Picker example.
+ * Simple Hex Picker
  *
  * This is a class that represents one tile (hex) on the board.
  * It contains the information about the shape, position and state of tile.
  *
- * This file is a part of a project from http://zompi.pl/simple-hex-picker/
  * (c) 2015 Damian Nowakowski
  */
 

@@ -1,11 +1,10 @@
 #pragma once
 
 /**
- * Hex Picker example.
+ * Simple Hex Picker
  *
  * The board with the flat oriented tiles.
  *
- * This file is a part of a project from http://zompi.pl/simple-hex-picker/
  * (c) 2015 Damian Nowakowski
  */
 

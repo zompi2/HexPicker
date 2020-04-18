@@ -1,16 +1,15 @@
 #pragma once
 
 /**
- * Hex Picker example.
+ * Simple Hex Picker
  *
  * This is an engine class where the core application's mechanics
  * are stored and processed.
  *
- * This file is a part of a project from http://zompi.pl/simple-hex-picker/
  * (c) 2015 Damian Nowakowski
  */
 
-#include <INIReader.h>
+#include "inih/cpp/INIReader.h"
 
 // Define Engine Helpers
 #define ENGINE			Engine::GetEngine()

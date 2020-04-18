@@ -1,10 +1,9 @@
 /**
- * Hex Picker example.
+ * Simple Hex Picker.
  *
  * The base of the board where tiles will be put.
  * Other kind of boards will inherit from this one.
  *
- * This file is a part of a project from http://zompi.pl/simple-hex-picker/
  * (c) 2015 Damian Nowakowski
  */
 

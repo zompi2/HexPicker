@@ -1,12 +1,11 @@
 #pragma once
 
 /**
- * Hex Picker example.
+ * Simple Hex Picker
  *
  * This is a scene class. It contains all elements displaying on the scene
  * in this example it will be board with tiles.
  *
- * This file is a part of a project from http://zompi.pl/simple-hex-picker/
  * (c) 2015 Damian Nowakowski
  */
 
