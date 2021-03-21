@@ -12,6 +12,6 @@ Data directory must be in the same directory the executable is.
 You can change various settings in Data/config.ini to alter number of tiles and select type of tiles.
 
 ## More
-You can read more about 2D hex point detection in the blog entry: https://damnow.blogspot.com/2015/01/simple-hex-picker.html
+You can read more about 2D hex point detection in the blog entry: https://zompidev.blogspot.com/2015/01/simple-hex-picker.html
 
 You can download a working .exe file from here: https://drive.google.com/file/d/1dKGgYC6rMMqAZQlebf773kuWdR1OFsvZ
