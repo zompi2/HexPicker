@@ -14,4 +14,4 @@ You can change various settings in Data/config.ini to alter number of tiles and 
 ## More
 You can read more about 2D hex point detection in the blog entry: https://zompidev.blogspot.com/2015/01/simple-hex-picker.html
 
-You can download a working .exe file from here: https://drive.google.com/file/d/1dKGgYC6rMMqAZQlebf773kuWdR1OFsvZ
+You can download a working .exe file from release section: https://github.com/zompi2/HexPicker/releases/download/binrelease/HexPicker.zip
